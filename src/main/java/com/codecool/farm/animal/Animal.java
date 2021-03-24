@@ -7,7 +7,8 @@ public abstract class Animal {
         this.size = 0;
     }
 
-    public void feed(){}
+    public void feed() {
+    }
 
     public int getSize() {
         return size;
